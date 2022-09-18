@@ -174,7 +174,7 @@
 			<div id="masthead" class="header-main ">
 				<div class="header-inner flex-row container logo-left medium-logo-center" role="navigation">
           			<div id="logo" class="flex-col logo">
-            			<a href="index.html" title="ALD MADRID" rel="home">
+            			<a href="index.php" title="ALD MADRID" rel="home">
     						<img width="169" height="100" src="wp-content/uploads/2021/05/logo-ermac-comercio-exterior-import-export.png" class="header_logo header-logo" alt="ALD MADRID"/>
     						<img  width="169" height="100" src="wp-content/uploads/2021/05/logo-ermac-comercio-exterior-import-export.png" class="header-logo-dark" alt="ALD MADRID"/>
     					</a>
@@ -193,24 +193,24 @@
           			<div class="flex-col hide-for-medium flex-left flex-grow">
             			<ul class="header-nav header-nav-main nav nav-left  nav-uppercase" >
               				<li id="menu-item-1683" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1683 menu-item-design-default">
-              					<a href="index.html" class="nav-top-link">Inicio</a>
+              					<a href="index.php" class="nav-top-link">Inicio</a>
               				</li>
 							<li id="menu-item-1494" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-91 current_page_item menu-item-1494 active menu-item-design-default">
-								<a href="nosotros.html" aria-current="page" class="nav-top-link">Nosotros</a>
+								<a href="nosotros.php" aria-current="page" class="nav-top-link">Nosotros</a>
 							</li>
 							<li id="menu-item-1495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1495 menu-item-design-default has-dropdown">
-								<a href="servicios.html" class="nav-top-link">Servicios
+								<a href="servicios.php" class="nav-top-link">Servicios
 									<i class="icon-angle-down" ></i>
 								</a>
 								<ul class="sub-menu nav-dropdown nav-dropdown-default">
 									<li id="menu-item-1727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1727">
-										<a href="import-export.html">IMPORT &#038; EXPORT</a>
+										<a href="import-export.php">IMPORT &#038; EXPORT</a>
 									</li>
 									<li id="menu-item-1725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1725">
-										<a href="consultoria.html">CONSULTORÍA Y ASESORAMIENTO</a>
+										<a href="consultoria.php">CONSULTORÍA Y ASESORAMIENTO</a>
 									</li>
 									<li id="menu-item-1726" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1726">
-										<a href="energias.html">ENERGÍAS ALTERNATIVAS Y MEDIO AMBIENTE</a>
+										<a href="energias.php">ENERGÍAS ALTERNATIVAS Y MEDIO AMBIENTE</a>
 									</li>
 								</ul>
 							</li>
@@ -220,15 +220,15 @@
 								</a>
 								<ul class="sub-menu nav-dropdown nav-dropdown-default">
 									<li id="menu-item-1863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1863">
-										<a href="alimentos.html">Alimentos</a>
+										<a href="alimentos.php">Alimentos</a>
 									</li>
 								</ul>
 							</li>
 							<li id="menu-item-1740" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1740 menu-item-design-default">
-								<a href="rsc.html" class="nav-top-link">RSC</a>
+								<a href="rsc.php" class="nav-top-link">RSC</a>
 							</li>
 							<li id="menu-item-1684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1684 menu-item-design-default">
-								<a href="contacto.html" class="nav-top-link">Contacto</a>
+								<a href="contacto.php" class="nav-top-link">Contacto</a>
 							</li>
 						</ul>
 					</div>
@@ -432,7 +432,7 @@
 												</span>
 											</p>
 											<p style="text-align:left;font-size:12px">
-												Información básica en protección de datos.- Conforme al RGPD y la LOPDGDD, ALD MADRID SL tratará los datos facilitados, con la finalidad de contestar las dudas y/o quejas planteadas a través del presente formulario y facilitar la información solicitada. Siempre que nos lo autorice previamente, enviaremos información relacionada con los servicios ofrecidos por ALD MADRID SL el [grupo] Podrá ejercer, si lo desea, los derechos de acceso, rectificación, supresión, y demás reconocidos en la normativa mencionada. Para obtener más información acerca de cómo estamos tratando sus datos, acceda a nuestra <a style="text-decoration:underline" href='politica.html' target='_blank'>política de privacidad</a>.
+												Información básica en protección de datos.- Conforme al RGPD y la LOPDGDD, ALD MADRID SL tratará los datos facilitados, con la finalidad de contestar las dudas y/o quejas planteadas a través del presente formulario y facilitar la información solicitada. Siempre que nos lo autorice previamente, enviaremos información relacionada con los servicios ofrecidos por ALD MADRID SL el [grupo] Podrá ejercer, si lo desea, los derechos de acceso, rectificación, supresión, y demás reconocidos en la normativa mencionada. Para obtener más información acerca de cómo estamos tratando sus datos, acceda a nuestra <a style="text-decoration:underline" href='politica.php' target='_blank'>política de privacidad</a>.
 											</p>
 											<p style="text-align:left;font-size:14px">
 												<span class="wpcf7-form-control-wrap politica">
@@ -488,13 +488,13 @@
 						<div class="menu-servicios-footer-container">
 							<ul id="menu-servicios-footer" class="menu">
 								<li id="menu-item-1793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1793">
-									<a href="import-export.html">Import &#038; Export</a>
+									<a href="import-export.php">Import &#038; Export</a>
 								</li>
 								<li id="menu-item-1791" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1791">
-									<a href="consultoria.html">Consultoría y Asesoramiento</a>
+									<a href="consultoria.php">Consultoría y Asesoramiento</a>
 								</li>
 								<li id="menu-item-1792" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1792">
-									<a href="energias.html">Energías Alternativas y Medio Ambiente</a>
+									<a href="energias.php">Energías Alternativas y Medio Ambiente</a>
 								</li>
 							</ul>
 						</div>
@@ -505,13 +505,13 @@
 						<div class="menu-legal-container">
 							<ul id="menu-legal" class="menu">
 								<li id="menu-item-1834" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1834">
-									<a href="legales.html">Aviso Legal</a>
+									<a href="legales.php">Aviso Legal</a>
 								</li>
 								<li id="menu-item-474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-474">
-									<a href="politica.html">Política de privacidad</a>
+									<a href="politica.php">Política de privacidad</a>
 								</li>
 								<li id="menu-item-1824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1824">
-									<a href="cookies.html">Política de cookies</a>
+									<a href="cookies.php">Política de cookies</a>
 								</li>
 							</ul>
 						</div>
@@ -548,7 +548,7 @@
 			<li class="header-search-form search-form html relative has-icon">
 				<div class="header-search-form-wrapper">
 					<div class="searchform-wrapper ux-search-box relative is-normal">
-						<form method="get" class="searchform" action="index.html" role="search">
+						<form method="get" class="searchform" action="index.php" role="search">
 							<div class="flex-row relative">
 								<div class="flex-col flex-grow">
 	   	   							<input type="search" class="search-field mb-0" name="s" value="" id="s" placeholder="Search&hellip;" />
@@ -565,22 +565,22 @@
 				</div>
 			</li>
 			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1683">
-				<a href="index.html">Inicio</a>
+				<a href="index.php">Inicio</a>
 			</li>
 			<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-91 current_page_item menu-item-1494">
-				<a href="nosotros.html" aria-current="page">Nosotros</a>
+				<a href="nosotros.php" aria-current="page">Nosotros</a>
 			</li>
 			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1495">
-				<a href="servicios.html">Servicios</a>
+				<a href="servicios.php">Servicios</a>
 				<ul class="sub-menu nav-sidebar-ul children">
 					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1727">
-						<a href="import-export.html">IMPORT &#038; EXPORT</a>
+						<a href="import-export.php">IMPORT &#038; EXPORT</a>
 					</li>
 					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1725">
-						<a href="consultoria.html">CONSULTORÍA Y ASESORAMIENTO</a>
+						<a href="consultoria.php">CONSULTORÍA Y ASESORAMIENTO</a>
 					</li>
 					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1726">
-						<a href="energias.html">ENERGÍAS ALTERNATIVAS Y MEDIO AMBIENTE</a>
+						<a href="energias.php">ENERGÍAS ALTERNATIVAS Y MEDIO AMBIENTE</a>
 					</li>
 				</ul>
 			</li>
@@ -588,15 +588,15 @@
 				<a href="#">Productos</a>
 				<ul class="sub-menu nav-sidebar-ul children">
 					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1863">
-						<a href="alimentos.html">Alimentos</a>
+						<a href="alimentos.php">Alimentos</a>
 					</li>
 				</ul>
 			</li>
 			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1740">
-				<a href="rsc.html">RSC</a>
+				<a href="rsc.php">RSC</a>
 			</li>
 			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1684">
-				<a href="contacto.html">Contacto</a>
+				<a href="contacto.php">Contacto</a>
 			</li>
 			<li class="html custom html_topbar_right">
 				<p style="margin:auto">
@@ -631,7 +631,7 @@
 	<div class="modal-cacsp-box modal-cacsp-box-info modal-cacsp-box-bottom">
 		<div class="modal-cacsp-box-header">Cookies</div>
 		<div class="modal-cacsp-box-content">Usamos cookies. Si te parece bien, simplemente haz clic en «Aceptar todo». También puedes elegir qué tipo de cookies quieres haciendo clic en «Ajustes».
-			<a href="cookies.html" target="_blank" rel="noopener noreferrer">Lee nuestra política de cookies</a>
+			<a href="cookies.php" target="_blank" rel="noopener noreferrer">Lee nuestra política de cookies</a>
 		</div>
 		<div class="modal-cacsp-btns">
 			<a href="#" class="modal-cacsp-btn modal-cacsp-btn-settings">Ajustes</a>
@@ -642,7 +642,7 @@
 	<div class="modal-cacsp-box modal-cacsp-box-settings">
 		<div class="modal-cacsp-box-header">Cookies</div>
 		<div class="modal-cacsp-box-content">Elige qué tipo de cookies aceptar. Tu elección será guardada durante un año.
-			<a href="cookies.html" target="_blank" rel="noopener noreferrer">Lee nuestra política de cookies</a>
+			<a href="cookies.php" target="_blank" rel="noopener noreferrer">Lee nuestra política de cookies</a>
 		</div>
 		<div class="modal-cacsp-box-settings-list">
 			<ul>
